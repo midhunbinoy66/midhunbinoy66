@@ -16,10 +16,4 @@ I'm a passionate software developer with expertise in JavaScript, Angular, Mongo
 ## Let's Connect! 🤝
 - [GitHub](https://github.com/midhunbinoy)
 
-## Projects 🛠️
-- 
-
-## Experience 💼
-- 
-
 Feel free to reach out to me via email for any inquiries or collaborations! 😊
